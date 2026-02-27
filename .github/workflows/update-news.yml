@@ -48,6 +48,10 @@ jobs:
             echo "No FOLLOW_OPML_B64 secret provided; RSS OPML is optional"
           fi
 
+      - name: Pull latest changes
+        run: |
+          git pull --rebase origin main
+
       - name: Update data
         run: |
           if [ -f feeds/follow.opml ]; then
@@ -64,7 +68,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/latest-24h.json data/archive.json data/source-status.json data/waytoagi-7d.json data/title-zh-cache.json
           git commit -m "chore: update ai news snapshot"
           git push

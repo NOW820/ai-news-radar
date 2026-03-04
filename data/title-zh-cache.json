@@ -2356,5 +2356,14 @@
   "Sources: Anthropic recently surpassed $19B in run-rate revenue, up from $9B at the end of 2025 and roughly $14B a few weeks ago (Shirin Ghaffary/Bloomberg)": "资料来源：Anthropic 最近的运行收入超过 190 亿美元，高于 2025 年底的 90 亿美元和几周前的约 140 亿美元（Shirin Ghaffary/彭博社）",
   "Alibaba’s Qwen tech lead steps down after major AI push": "阿里巴巴的 Qwen 技术负责人在大力推动人工智能后辞职",
   "In an all-hands meeting, Sam Altman said OpenAI does not \"get to make operational decisions\" regarding how its technology is used by the Department of Defense (Ashley Capoot/CNBC)": "在一次全体会议上，Sam Altman 表示 OpenAI 无法就国防部如何使用其技术“做出运营决策”（Ashley Capoot/CNBC）",
-  "Source: OpenAI is developing an alternative to GitHub; the project is nascent, and the decision came after OpenAI engineers experienced an increase in outages (The Information)": "来源：OpenAI 正在开发 GitHub 的替代品；该项目尚处于起步阶段，OpenAI 工程师在经历了中断次数增加后做出了这一决定 (The Information)"
+  "Source: OpenAI is developing an alternative to GitHub; the project is nascent, and the decision came after OpenAI engineers experienced an increase in outages (The Information)": "来源：OpenAI 正在开发 GitHub 的替代品；该项目尚处于起步阶段，OpenAI 工程师在经历了中断次数增加后做出了这一决定 (The Information)",
+  "An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for \"unclassified networks\" (Hyunsu Yim/Reuters)": "OpenAI 发言人表示，山姆·奥尔特曼 (Sam Altman) 误称 OpenAI 正在寻求部署在北约机密网络上，而且是针对“非机密网络”（Hyunsu Yim/路透社）",
+  "I was at a QuitGPT protest. The discontent extends far beyond OpenAI's Pentagon deal.": "我参加了 QuitGPT 抗议活动。这种不满远远超出了 OpenAI 与五角大楼的交易范围。",
+  "Asia's smaller chip companies are joining their bigger peers in hiking prices as robust AI demand fuels capex, projected to rise 25% YoY to over $136B in 2026 (Nikkei Asia)": "由于强劲的人工智能需求推动资本支出，亚洲规模较小的芯片公司正在与规模较大的同行一起提高价格，预计 2026 年资本支出将同比增长 25%，达到超过 136B 美元（日经亚洲）",
+  "The UK government commits an initial £40M to an AI research lab, modeled on its DARPA-inspired ARIA, seeking breakthroughs in science, healthcare, and transport (Madhumita Murgia/Financial Times)": "英国政府向人工智能研究实验室投入 4000 万英镑，该实验室仿照 DARPA 启发的 ARIA，寻求科学、医疗保健和交通领域的突破（Madhumita Murgia/《金融时报》）",
+  "Lockheed Martin to follow US federal ban on Anthropic, as government contracting attorneys say defense contractors are expected to comply with the DOD's order (Reuters)": "洛克希德·马丁公司将遵循美国联邦对 Anthropic 的禁令，因为政府合同律师表示，国防承包商预计将遵守国防部的命令（路透社）",
+  "Some contractors who worked on OpenAI projects say Handshake AI is withholding thousands of dollars in pay": "一些参与 OpenAI 项目的承包商表示，Handshake AI 扣留了数千美元的工资",
+  "Agentic Engineering Patterns": "代理工程模式",
+  "Security researchers successfully prompted the AI behind a Utah prescription renewal pilot to reclassify meth as an \"unrestricted therapeutic\", and more (Sam Sabin/Axios)": "安全研究人员成功促使犹他州处方更新试点背后的人工智能将冰毒重新分类为“不受限制的治疗方法”等（Sam Sabin/Axios）",
+  "A CPU that runs entirely on GPU": "完全在 GPU 上运行的 CPU"
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-04T23:48:03.094264Z",
+  "generated_at": "2026-03-05T05:04:57.709899Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 447,
+      "duration_ms": 479,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 220,
+      "duration_ms": 201,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 815,
+      "duration_ms": 440,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 84,
-      "duration_ms": 2245,
+      "duration_ms": 2860,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3040,
-      "duration_ms": 1690,
+      "item_count": 3043,
+      "duration_ms": 1971,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 589,
+      "duration_ms": 368,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1724,
+      "duration_ms": 1151,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 357,
+      "duration_ms": 169,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 483,
+      "duration_ms": 320,
       "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
@@ -93,9 +93,9 @@
     "iris",
     "aihubtoday"
   ],
-  "fetched_raw_items": 3549,
-  "items_before_topic_filter": 4174,
-  "items_in_24h": 283,
+  "fetched_raw_items": 3552,
+  "items_before_topic_filter": 3993,
+  "items_in_24h": 281,
   "rss_opml": {
     "enabled": false,
     "path": null,

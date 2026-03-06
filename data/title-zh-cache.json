@@ -2594,5 +2594,15 @@
   "Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 (The Information)": "资料来源：Together AI 正在洽谈融资约 10 亿美元，投前估值为 7.5 亿美元，高于 2025 年的 3.3 亿美元；其年化收入已达到约 10 亿美元，较 2025 年中期增长 3 倍以上 (The Information)",
   "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix": "《恐怖谷》：人工智能时代的伊朗战争、预测市场伦理和派拉蒙击败 Netflix",
   "A standard protocol to handle and discard low-effort, AI-Generated pull requests": "用于处理和丢弃省力的 AI 生成的拉取请求的标准协议",
-  "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway": "OpenAI 已禁止军事用途。五角大楼无论如何都通过微软测试了其模型"
+  "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway": "OpenAI 已禁止军事用途。五角大楼无论如何都通过微软测试了其模型",
+  "Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer (Russell Brandom/TechCrunch)": "Cursor 推出了 Automations，这是一种新工具，可让用户自动启动通过代码库的新添加、Slack 消息或计时器触发的代理（Russell Brandom/TechCrunch）",
+  "ByteDance's Seedance 2.0 AI model is held back by limited compute resources that create a bottleneck, forcing users to wait hours to generate a single video (Zeyi Yang/Wired)": "字节跳动的 Seedance 2.0 AI 模型受到有限计算资源的阻碍，从而造成瓶颈，迫使用户等待数小时才能生成单个视频（Zeyi Yang/Wired）",
+  "Sources: OpenAI employees claim the DOD tested Microsoft's Azure version of OpenAI models before OpenAI lifted its blanket ban on military use in January 2024 (Maxwell Zeff/Wired)": "资料来源：OpenAI 员工声称，在 OpenAI 于 2024 年 1 月解除全面军事用途禁令之前，国防部测试了微软的 Azure 版本的 OpenAI 模型（Maxwell Zeff/Wired）",
+  "Dario Amodei says Anthropic is having 'productive conversations' with the Pentagon despite being effectively blacklisted": "达里奥·阿莫迪表示，尽管 Anthropic 已被有效列入黑名单，但仍在与五角大楼进行“富有成效的对话”",
+  "A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M (New York Times)": "看看 Cloverleaf，它与公用事业公司达成交易，并为人工智能公司及其数据中心需求确保土地；该公司已筹集 3 亿美元（纽约时报）",
+  "Anthropic to challenge DOD’s supply chain label in court": "Anthropic 将在法庭上挑战国防部的供应链标签",
+  "Dario Amodei says Anthropic has been \"having productive conversations\" with the DOD and apologizes for a leaked memo that criticized Trump and Sam Altman (Anthropic)": "达里奥·阿莫代 (Dario Amodei) 表示，Anthropic 一直在与国防部“进行富有成效的对话”，并为批评特朗普和萨姆·奥尔特曼 (Sam Altman) 的一份泄露的备忘录道歉。",
+  "Pentagon Formally Designates Anthropic a Supply-Chain Risk": "五角大楼正式将 Anthropic 指定为供应链风险",
+  "Google has quietly released an unsupported Workspace CLI, making it easier for agentic AI tools to access Gmail, Calendar, Drive, Docs, and other apps (Ben Patterson/PCWorld)": "Google 悄悄发布了不受支持的 Workspace CLI，使代理 AI 工具可以更轻松地访问 Gmail、日历、云端硬盘、文档和其他应用程序 (Ben Patterson/PCWorld)",
+  "Where things stand with the Department of War": "陆军部的情况"
 }

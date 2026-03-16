@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-16T06:00:53.447301Z",
+  "generated_at": "2026-03-16T07:52:43.431331Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 486,
+      "duration_ms": 437,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 200,
+      "duration_ms": 185,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 487,
+      "duration_ms": 564,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 86,
-      "duration_ms": 2520,
+      "duration_ms": 2090,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3032,
-      "duration_ms": 1607,
+      "item_count": 3033,
+      "duration_ms": 1906,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 413,
+      "duration_ms": 558,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 118,
+      "duration_ms": 178,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1033,
+      "duration_ms": 1303,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 2198,
+      "duration_ms": 63,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,8 +78,8 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34386,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=sspai (Caused by ResponseError('too many 500 error responses'))"
+      "duration_ms": 466,
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
   "successful_sites": 6,
@@ -93,9 +93,9 @@
     "iris",
     "aihubtoday"
   ],
-  "fetched_raw_items": 3543,
-  "items_before_topic_filter": 3734,
-  "items_in_24h": 235,
+  "fetched_raw_items": 3544,
+  "items_before_topic_filter": 3792,
+  "items_in_24h": 251,
   "rss_opml": {
     "enabled": false,
     "path": null,

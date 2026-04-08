@@ -5719,5 +5719,11 @@
   "'Video games are cooked' — founder of No More Robots condemns gen AI in gaming and says 'from a publisher perspective, it's mega annoying'": "“视频游戏已经煮熟了”——No More Robots 创始人谴责游戏中的人工智能，并表示“从发行商的角度来看，这非常烦人”",
   "Anthropic limits access to AI that finds security flaws, realizing hackers may use it for exactly that": "人类限制了对发现安全漏洞的人工智能的访问，意识到黑客可能会利用它来实现这一目的",
   "This AI startup raised $4.5 million to help marketers fine-tune ads and respond to rivals. Read its pitch deck.": "这家人工智能初创公司筹集了 450 万美元，帮助营销人员微调广告并应对竞争对手。阅读其宣传材料。",
-  "Applied Intuition wants AI to leave the chat and run the physical world": "应用直觉希望人工智能离开聊天并运行物理世界"
+  "Applied Intuition wants AI to leave the chat and run the physical world": "应用直觉希望人工智能离开聊天并运行物理世界",
+  "Anthropic limits access to Mythos, its new cybersecurity AI model": "Anthropic 限制对其新网络安全人工智能模型 Mythos 的访问",
+  "Memo: Alibaba Cloud CTO Jingren Zhou will step down as CTO to focus on leading AI models in the new role of chief AI architect; executive Feifei Li becomes CTO (Juro Osawa/The Information)": "备注：阿里云CTO周靖人将卸任CTO，担任首席AI架构师，专注于领先的AI模型；高管李飞飞出任首席技术官（Juro Osawa/The Information）",
+  "Alphabet CEO Sundar Pichai says 'AI shift' makes this a great time to invest in new start-ups": "Alphabet 首席执行官桑达尔·皮查伊 (Sundar Pichai) 表示，“人工智能转变”使现在成为投资新初创企业的绝佳时机",
+  "Atlassian launches visual AI tools and third-party agents in Confluence": "Atlassian 在 Confluence 中推出视觉 AI 工具和第三方代理",
+  "Anthropic detects 'strategic manipulation' features in Claude Mythos, including exploit attempts and hidden evaluation awareness — prompting concern over model behavior": "Anthropic 检测到 Claude Mythos 中的“战略操纵”特征，包括利用尝试和隐藏的评估意识 - 引发对模型行为的担忧",
+  "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU": "MegaTrain：在单个 GPU 上对 100B+ 参数 LLM 进行全精度训练"
 }

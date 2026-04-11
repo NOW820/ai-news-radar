@@ -6038,5 +6038,6 @@
   "What smart people are saying about Mythos, Anthropic's new AI model that has some cybersecurity experts spooked": "聪明人对 Mythos 的评价，Anthropic 的新人工智能模型让一些网络安全专家感到害怕",
   "I matched the upgraded Meta AI against ChatGPT, and you can really tell which AI has social media roots": "我将升级后的 Meta AI 与 ChatGPT 进行了匹配，你可以真正看出哪个 AI 具有社交媒体根源",
   "Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit (Wall Street Journal)": "资料来源：美国国家网络总监肖恩·凯恩克罗斯 (Sean Cairncross) 正在领导一项工作，以确定人工智能可能利用的关键基础设施中的安全漏洞（《华尔街日报》）",
-  "Sources: three senior executives who helped launch OpenAI's Stargate initiative are leaving the company and joining Meta (Bloomberg)": "消息来源：帮助发起 OpenAI Stargate 计划的三名高级管理人员将离开公司并加入 Meta（彭博社）"
+  "Sources: three senior executives who helped launch OpenAI's Stargate initiative are leaving the company and joining Meta (Bloomberg)": "消息来源：帮助发起 OpenAI Stargate 计划的三名高级管理人员将离开公司并加入 Meta（彭博社）",
+  "OpenAI says a GitHub workflow used to sign its macOS apps downloaded a malicious Axios library on March 31, but no user data or internal system was compromised (Sam Sabin/Axios)": "OpenAI 表示，用于签署 macOS 应用程序的 GitHub 工作流程于 3 月 31 日下载了恶意 Axios 库，但没有用户数据或内部系统受到损害（Sam Sabin/Axios）"
 }

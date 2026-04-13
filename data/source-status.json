@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-13T11:01:02.672038Z",
+  "generated_at": "2026-04-13T12:02:59.640380Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 475,
+      "duration_ms": 559,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 139,
+      "duration_ms": 220,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 277,
+      "duration_ms": 544,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1016,
+      "duration_ms": 952,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3038,
-      "duration_ms": 1283,
+      "duration_ms": 1751,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 384,
+      "duration_ms": 421,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 254,
+      "duration_ms": 127,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 7783,
+      "duration_ms": 1911,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 241,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 4163,
+      "duration_ms": 360,
       "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
@@ -95,8 +95,8 @@
     "aihubtoday"
   ],
   "fetched_raw_items": 3463,
-  "items_before_topic_filter": 3836,
-  "items_in_24h": 244,
+  "items_before_topic_filter": 3800,
+  "items_in_24h": 255,
   "rss_opml": {
     "enabled": false,
     "path": null,

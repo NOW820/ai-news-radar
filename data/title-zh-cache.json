@@ -6565,5 +6565,20 @@
   "Some of the buzziest names in superintelligence, media, health, and longevity get real about AI and grind culture": "超级智能、媒体、健康和长寿领域一些最热门的名字真正了解了人工智能和磨砺文化",
   "Allbirds was founded with a focus on environmental conservation. Its pivot to AI is leaving that behind.": "Allbirds 成立时就注重环境保护。它转向人工智能的重心正在将其抛在脑后。",
   "OpenAI updates Agents SDK with native sandboxing and an in-distribution harness for deploying and testing agents on long-horizon tasks (Lucas Ropek/TechCrunch)": "OpenAI 使用本机沙箱和分发内工具更新了 Agents SDK，用于在长期任务上部署和测试代理（Lucas Ropek/TechCrunch）",
-  "Agent - Native Mac OS X coding ide/harness": "Agent - 本机 Mac OS X 编码 ide/harness"
+  "Agent - Native Mac OS X coding ide/harness": "Agent - 本机 Mac OS X 编码 ide/harness",
+  "OpenAI Agents SDK": "OpenAI 代理 SDK",
+  "Agent Card": "代理卡",
+  "Subagents in Gemini CLI": "Gemini CLI 中的子代理",
+  "Google Gemini 3.1 Flash TTS": "谷歌 Gemini 3.1 Flash TTS",
+  "LISA Core": "丽莎核心",
+  "Claude Code Desktop App Redesigned": "克劳德·代码桌面应用程序重新设计",
+  "Askiva AI": "阿斯基瓦人工智能",
+  "A primer on interpretability and how AI researchers are figuring out how to open and understand the \"black box\" that holds the formulas within most AI models (Oliver Whang/New York Times)": "关于可解释性以及人工智能研究人员如何弄清楚如何打开和理解大多数人工智能模型中保存公式的“黑匣子”的入门读本（Oliver Whang/纽约时报）",
+  "India produces over 1.5M CS graduates annually, but scale is no longer an advantage with the rise of AI coding tools; Infosys revamps hiring to focus on AI (Saritha Rai/Bloomberg)": "印度每年培养超过 150 万计算机科学毕业生，但随着人工智能编码工具的兴起，规模不再是优势； Infosys 改革招聘以专注于人工智能（Saritha Rai/彭博社）",
+  "Analysis: China's chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B (Nikkei Asia)": "分析：2025年中国从新加坡进口的芯片制造工具同比增长17%至$5.7B，从马来西亚进口增长2倍以上至$3.4B；美国直接进口同比下降 34% 至约 20 亿美元（日经亚洲）",
+  "Sources say Ola's AI venture Krutrim's smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled (Swathi Moorthy/The Economic Times)": "有消息称，Ola 的人工智能企业 Krutrim 的智能助手 Kruti 无法向用户提供，其印度多语言法学硕士 Krutrim 3 的开发也已陷入停滞（Swathi Moorthy/经济时报）",
+  "Jensen Huang explains why Nvidia invests in tons of companies, instead of trying to pick winners": "黄仁勋解释了为什么英伟达投资了大量公司，而不是试图挑选赢家",
+  "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan": "萨尔·汗 (Sal Khan) 表示，为什么萨尔·汗 (Sal Khan) 的人工智能革命尚未发生",
+  "Airbnb discloses a billion-series Prometheus metrics pipeline": "Airbnb 披露了十亿级 Prometheus 指标管道",
+  "Stop Using Ollama": "停止使用奥拉马"
 }

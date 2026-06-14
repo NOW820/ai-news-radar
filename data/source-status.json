@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-14T00:00:08.516332Z",
+  "generated_at": "2026-06-14T02:19:24.635667Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 357,
+      "duration_ms": 324,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 540,
+      "duration_ms": 326,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 671,
+      "duration_ms": 946,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 838,
+      "duration_ms": 950,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2881,
-      "duration_ms": 1424,
+      "item_count": 3021,
+      "duration_ms": 1325,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 6194,
+      "duration_ms": 552,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 317,
+      "duration_ms": 332,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2022,
+      "duration_ms": 1730,
       "error": null
     },
     {
@@ -70,32 +70,32 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 112,
+      "duration_ms": 250,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
+      "ok": false,
       "item_count": 0,
-      "duration_ms": 13296,
-      "error": null
+      "duration_ms": 604,
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
-  "successful_sites": 7,
+  "successful_sites": 6,
   "failed_sites": [
     "buzzing",
     "zeli",
-    "aihot"
+    "aihot",
+    "newsnow"
   ],
   "zero_item_sites": [
     "iris",
-    "aihubtoday",
-    "newsnow"
+    "aihubtoday"
   ],
-  "fetched_raw_items": 3307,
-  "items_before_topic_filter": 3358,
-  "items_in_24h": 177,
+  "fetched_raw_items": 3447,
+  "items_before_topic_filter": 3535,
+  "items_in_24h": 180,
   "rss_opml": {
     "enabled": false,
     "path": null,

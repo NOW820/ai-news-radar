@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-25T21:13:42.690383Z",
+  "generated_at": "2026-06-25T22:58:17.730058Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 395,
+      "duration_ms": 515,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 240,
+      "duration_ms": 315,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 293,
-      "duration_ms": 554554,
+      "item_count": 354,
+      "duration_ms": 15132,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 3249,
+      "duration_ms": 443,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2989,
-      "duration_ms": 1715,
+      "item_count": 2992,
+      "duration_ms": 1877,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 577,
+      "duration_ms": 575,
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 462,
+      "duration_ms": 296,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2557,
+      "duration_ms": 2309,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 103,
+      "duration_ms": 310,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 472,
+      "duration_ms": 345,
       "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
@@ -90,9 +90,9 @@
     "newsnow"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 3709,
-  "items_before_topic_filter": 4656,
-  "items_in_24h": 532,
+  "fetched_raw_items": 3773,
+  "items_before_topic_filter": 4669,
+  "items_in_24h": 541,
   "rss_opml": {
     "enabled": false,
     "path": null,

@@ -16111,5 +16111,11 @@
   "I tried DoorDash's new AI search. As a home cook, this feature won me over.": "我尝试了 DoorDash 的新人工智能搜索。作为一名家庭厨师，这个功能赢得了我的青睐。",
   "Google was the dream job in tech. These workers decided to leave anyway.": "谷歌是科技界的理想工作。无论如何，这些工人决定离开。",
   "AllianceBernstein's CEO says you should be worried about an AI bubble": "AllianceBernstein 首席执行官表示你应该担心人工智能泡沫",
-  "Mark Cuban gets dragged after saying people don't really hate data centers — “The fight against data centers has nothing to do with data centers. They have become a proxy for the hate towards AI”": "马克·库班 (Mark Cuban) 表示，人们并不是真的讨厌数据中心，但他却被拖累了——“针对数据中心的斗争与数据中心无关。它们已经成为仇恨人工智能的代表。”"
+  "Mark Cuban gets dragged after saying people don't really hate data centers — “The fight against data centers has nothing to do with data centers. They have become a proxy for the hate towards AI”": "马克·库班 (Mark Cuban) 表示，人们并不是真的讨厌数据中心，但他却被拖累了——“针对数据中心的斗争与数据中心无关。它们已经成为仇恨人工智能的代表。”",
+  "Excessive nil pointer checks in Go": "Go 中过多的 nil 指针检查",
+  "Shard your locks: benchmarking 6 Go cache designs": "分片你的锁：对 6 个 Go 缓存设计进行基准测试",
+  "Gemini has nothing to fear from the new Siri AI": "Gemini 无需担心新的 Siri AI",
+  "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型",
+  "A US Army commander used attack drones and C4-packed robots to clear a deadly breach before soldiers even got in the fight": "一名美国陆军指挥官在士兵投入战斗之前就使用攻击无人机和装有 C4 的机器人清除了致命的缺口",
+  "DSpark: Speculative decoding accelerates LLM inference [pdf]": "DSpark：推测性解码加速 LLM 推理 [pdf]"
 }

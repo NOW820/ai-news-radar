@@ -18939,5 +18939,15 @@
   "Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users (Marco Chiappetta/Forbes)": "Cadence 推出 AuraStack AI Super Agent，这是一个用于 PCB 和先进芯片封装设计的 AI 平台，早期用户包括 Nvidia、台积电和施耐德电气 (Marco Chiappetta/福布斯)",
   "Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’": "Gurman 谈 OpenAI 即将推出的硬件产品：“可移动、无屏幕扬声器，作为 AI 伴侣”",
   "Trump calls data centers 'money machines' and says New York is letting them slip away": "特朗普称数据中心为“赚钱机器”，并表示纽约正在让它们溜走",
-  "TLS Certificate Validation on Linux": "Linux 上的 TLS 证书验证"
+  "TLS Certificate Validation on Linux": "Linux 上的 TLS 证书验证",
+  "An Interactive Map of AI": "人工智能互动地图",
+  "Linus Torvalds on LLM usage in kernel development": "Linus Torvalds 谈 LLM 在内核开发中的应用",
+  "AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May (Wall Street Journal)": "在人工智能的反对声日益高涨之际，人工智能高管正在加强个人安全； Liferaft：从 2 月底到 5 月，针对高管和数据中心的数字威胁增长了 7 倍（华尔街日报）",
+  "Open Source, Free Tier Capable Whispr Using Cloudflare AI": "使用 Cloudflare AI 的开源、免费套餐 Whispr",
+  "The Shape of Apps": "应用程序的形态",
+  "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs": "Fleet：多芯片 GPU 上巨型内核的基于分层任务的抽象",
+  "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs": "加速内存受限 GPU 上的块低阶基础模型推理",
+  "The dailyprog puzzle safety net": "dailyprog 拼图安全网",
+  "SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash (Simon Willison/Simon Willison's Weblog)": "在该工具将用户存储库上传到 Google Cloud 存储桶后，SpaceXAI 在 Apache 2.0 许可证下开源了 Grok Build，引起了严重的强烈反对（Simon Willison/Simon Willison 的博客）",
+  "5 amazing tools built with GPT-5.6 that people are showing off to Sam Altman — from a wardrobe assistant to Pokémon Go for cats": "人们向 Sam Altman 炫耀的 5 个使用 GPT-5.6 构建的令人惊叹的工具——从衣柜助手到猫用 Pokémon Go"
 }

@@ -19632,5 +19632,9 @@
   "AI Agents Are Making Money. Most People Are Building the Wrong Ones.": "人工智能代理正在赚钱。大多数人都建错了。",
   "Extending MVCC to be serializable, in TLA+ (2024)": "在 TLA+ 中将 MVCC 扩展为可序列化 (2024)",
   "Over 30% of new ArXiv submissions now read as AI-written": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的",
-  "F1 in Belgium: Machine learning algorithms are ruining the sport": "比利时 F1：机器学习算法正在毁掉这项运动"
+  "F1 in Belgium: Machine learning algorithms are ruining the sport": "比利时 F1：机器学习算法正在毁掉这项运动",
+  "A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W": "Linux 内核 0day 之旅 - 从有限的 UAF 到物理内存 R/W",
+  "Who needs a real-time database?": "谁需要实时数据库？",
+  "Safety and alignment in an era of long-horizon models": "长视野模型时代的安全性和对准",
+  "How we measured AI writing across arXiv, and where the measurement breaks": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点"
 }

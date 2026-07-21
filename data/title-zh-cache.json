@@ -19665,5 +19665,8 @@
   "Grabette: an open system to record robot-manipulation data": "Grabette：记录机器人操作数据的开放系统",
   "dottxt-ai / outlines": "dottxt-ai / 轮廓",
   "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)": "GitHub 突然拒绝了我的 SSH 密钥（修复是 .pub 文件？！）",
-  "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot": "逃离 IntelliJ：Emacs 上的 Scala 和 Kotlin LSP Eglot"
+  "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot": "逃离 IntelliJ：Emacs 上的 Scala 和 Kotlin LSP Eglot",
+  "git --end-of-options": "git --选项结束",
+  "Thoughts On Integers (2023)": "关于整数的思考 (2023)",
+  "Linux kernel will support $ORIGIN, sort of": "Linux 内核将支持 $ORIGIN 之类的"
 }

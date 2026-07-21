@@ -19661,5 +19661,9 @@
   "30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems": "每天 30 到 70 个 PR：我们如何设法不破坏我们的系统",
   "GGG – Declarative SVG badge generation using Guile Scheme and SXML": "GGG – 使用 Guile Scheme 和 SXML 生成声明性 SVG 徽章",
   "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge": "Qwen-Image-3.0：内容丰富、细节真实、知识渊博",
-  "Why l (new runtime for k and q)": "为什么是 l（k 和 q 的新运行时）"
+  "Why l (new runtime for k and q)": "为什么是 l（k 和 q 的新运行时）",
+  "Grabette: an open system to record robot-manipulation data": "Grabette：记录机器人操作数据的开放系统",
+  "dottxt-ai / outlines": "dottxt-ai / 轮廓",
+  "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)": "GitHub 突然拒绝了我的 SSH 密钥（修复是 .pub 文件？！）",
+  "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot": "逃离 IntelliJ：Emacs 上的 Scala 和 Kotlin LSP Eglot"
 }

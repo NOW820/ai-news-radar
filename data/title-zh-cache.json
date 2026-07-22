@@ -19780,5 +19780,7 @@
   "The Army Is Burning Through Its AI Tokens": "陆军正在烧毁其人工智能代币",
   "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)": "Dark Elevator：Windows 安装服务本地权限提升 (CVE-2026-50343)",
   "Why care about programming languages": "为什么关心编程语言",
-  "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)": "RefluXFS：XFS 中 Linux 内核本地权限升级至 root (CVE-2026-64600)"
+  "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)": "RefluXFS：XFS 中 Linux 内核本地权限升级至 root (CVE-2026-64600)",
+  "Taking OCaml and Eio for a spin": "尝试一下 OCaml 和 Eio",
+  "Quality non-fiction books are the antithesis of AI slop": "高质量的非小说类书籍是人工智能的对立面"
 }

@@ -19775,5 +19775,8 @@
   "log is non-monotonic in PHP and Lua": "log 在 PHP 和 Lua 中是非单调的",
   "Hyundai claims humanoid robot plan is not part of talks with striking workers": "现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分",
   "Are AI Labs Pelicanmaxxing?": "AI 实验室是 Pelicanmaxxing 吗？",
-  "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face": "OpenAI 表示其 AI 代理突破了测试沙箱，可以破解 Hugging Face"
+  "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face": "OpenAI 表示其 AI 代理突破了测试沙箱，可以破解 Hugging Face",
+  "Towards a quantum computer that learns from its errors": "迈向从错误中学习的量子计算机",
+  "The Army Is Burning Through Its AI Tokens": "陆军正在烧毁其人工智能代币",
+  "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)": "Dark Elevator：Windows 安装服务本地权限提升 (CVE-2026-50343)"
 }

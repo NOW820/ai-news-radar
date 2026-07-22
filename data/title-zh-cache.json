@@ -19778,5 +19778,7 @@
   "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face": "OpenAI 表示其 AI 代理突破了测试沙箱，可以破解 Hugging Face",
   "Towards a quantum computer that learns from its errors": "迈向从错误中学习的量子计算机",
   "The Army Is Burning Through Its AI Tokens": "陆军正在烧毁其人工智能代币",
-  "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)": "Dark Elevator：Windows 安装服务本地权限提升 (CVE-2026-50343)"
+  "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)": "Dark Elevator：Windows 安装服务本地权限提升 (CVE-2026-50343)",
+  "Why care about programming languages": "为什么关心编程语言",
+  "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)": "RefluXFS：XFS 中 Linux 内核本地权限升级至 root (CVE-2026-64600)"
 }

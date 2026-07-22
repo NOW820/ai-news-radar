@@ -19726,5 +19726,8 @@
   "The Value of Domain Knowledge in Software": "软件领域知识的价值",
   "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA": "Kimi K3与神鬼寓言有竞争力； 《Kimi K3》和《神鬼寓言》是 SoTA",
   "Gemini last models: temperature, top_p, and top_k are deprecated and ignored": "Gemini 最后的模型：温度、top_p 和 top_k 已弃用并被忽略",
-  "Parallelizing Compilation: In-Process vs Multi-Process": "并行编译：进程内与多进程"
+  "Parallelizing Compilation: In-Process vs Multi-Process": "并行编译：进程内与多进程",
+  "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup": "OpenAI 表示人工智能模型在测试过程中失控，在启动时引发了“前所未有”的漏洞",
+  "There are way too many people that believe AI = chatgpt": "有太多人相信 AI = chatgpt",
+  "AP8L - APL for the Pico-8": "AP8L - Pico-8 的 APL"
 }

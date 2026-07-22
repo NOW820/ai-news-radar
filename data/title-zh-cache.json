@@ -19747,5 +19747,8 @@
   "ECC and DDR5": "ECC 和 DDR5",
   "Prefactoring: Clear the Way for Your New Feature": "预分解：为您的新功能扫清道路",
   "Slash Pages": "斜线页面",
-  "An Engineer’s Guide to USB Type-C": "USB Type-C 工程师指南"
+  "An Engineer’s Guide to USB Type-C": "USB Type-C 工程师指南",
+  "log is non-monotonous in PHP and Lua": "PHP 和 Lua 中的 log 是非单调的",
+  "Codeberg: ToU extension to prohibit LLM-extrusions": "Codeberg：禁止 LLM 挤压的 ToU 扩展",
+  "I graded 36 popular MCP servers on agent usability. A third got a D or F": "我对 36 个流行的 MCP 服务器的代理可用性进行了评分。第三人得了 D 或 F"
 }

@@ -21632,5 +21632,12 @@
   "How fast is C++26’s std::hive?": "C++26 的 std::hive 有多快？",
   "Startup backed by the world's largest battery maker just launched a supercheap mini PC that competes with Nvidia's $5000 AI DGX Spark PC": "由全球最大电池制造商支持的初创公司刚刚推出了一款超便宜的迷你 PC，可与 Nvidia 售价 5000 美元的 AI DGX Spark PC 竞争",
   "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)": "专家表示，美国法律对流氓人工智能代理和模型没有做好准备，因为最近的 OpenAI 和 Anthropic 事件引发了对法律责任和影响的质疑（Lily Hay Newman/Wired）",
-  "Snapchat is the latest platform to turn against AI slop": "Snapchat 是反对人工智能滥用的最新平台"
+  "Snapchat is the latest platform to turn against AI slop": "Snapchat 是反对人工智能滥用的最新平台",
+  "Controlling Your Environment Makes You Happy": "控制你的环境让你快乐",
+  "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App": "Boris Cherny 尝试获取 Claude 代码来重写 Claude 应用程序",
+  "Sam Altman and AI’s decel debate": "Sam Altman 和 AI 的减速争论",
+  "AI Mania: From Tulips to Tokens": "人工智能狂热：从郁金香到代币",
+  "Anthropic's Fever Dream: Claude's package that stole real keys": "人类的狂热之梦：克劳德的包裹偷走了真正的钥匙",
+  "Faster floating point math with Rust’s new API": "使用 Rust 的新 API 加快浮点运算速度",
+  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”"
 }

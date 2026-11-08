@@ -27552,5 +27552,11 @@
   "PyTorch 2.15 ships rewritten NCCL backend to survive single GPU failures": "PyTorch 2.15 重写了 NCCL 后端以应对单个 GPU 故障",
   "Is Mandating AI Use in the Workplace Backfiring?": "强制在工作场所使用人工智能会适得其反吗？",
   "There is no end in sight for the GPU supply problem": "GPU供应问题还没有结束的迹象",
-  "How a bottleneck calculator for your GPU and CPU works": "GPU 和 CPU 瓶颈计算器的工作原理"
+  "How a bottleneck calculator for your GPU and CPU works": "GPU 和 CPU 瓶颈计算器的工作原理",
+  "Agent Clan": "特工部落",
+  "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)": "主要环保组织正在利用人工智能来分析气候数据、跟踪森林火灾等，尽管他们警告数据中心对环境的影响（Valerie Volcovici/路透社）",
+  "Employed job seekers are shunning companies which use AI interviews — and I don't blame them": "受雇的求职者正在避开使用人工智能面试的公司——我不怪他们",
+  "Shark PowerDetect Transformer review: a strong, versatile vac that switches from upright to stick": "Shark PowerDetect Transformer 评测：一款强大的多功能吸尘器，可从直立式切换为直立式",
+  "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)": "总部位于北京的 GenRobot AI 开发了用于收集可用于训练机器人的人体演示的设备和软件，筹集了 1 亿美元的 A+ 轮融资 (动点科技)",
+  "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)": "在 Signal 聊天中组织的一个小型、富有的人工智能安全网络如何发展成为一个联盟，并在中期选举中击败了价值 1 亿美元的超级 PAC 领导未来 (Politico)"
 }
